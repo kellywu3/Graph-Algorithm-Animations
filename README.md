@@ -34,7 +34,10 @@ This Python program generates animations for graph algorithms. The program creat
 
 ![Prim's Algorithm](files/Prim's.gif)
 
-## LIBRARIES/REQUIREMENTS
+## FEATURES
+- n/a
+
+## REQUIREMENTS
 
 - [Matplotlib.pyplot](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html)
 - [Matplotlib.animation](https://matplotlib.org/stable/api/animation_api.html)
@@ -42,7 +45,7 @@ This Python program generates animations for graph algorithms. The program creat
 - [NetworkX](https://networkx.org)
 - [Logging](https://docs.python.org/3/library/logging.html)
 
-## TOOLS
+## LIBRARIES / DEPENDENCIES
 
 [**pipenv**](https://pipenv.pypa.io/en/latest/)
 - **Python Environment Packaging Tool**: creates flexible environment manipulation and containment by storing various environments in a common directory.
@@ -94,6 +97,9 @@ pip freeze > requirements.txt
 
 [**Logging**](https://docs.python.org/3/howto/logging.html)
 - python logging library, allows event tracking and output visibility
+
+## TOOLS
+- n/a
 
 ## CONCEPTS
 
